@@ -1,0 +1,7 @@
+heroku create  //command to create heroku application
+
+Creating app... done, nameless-badlands-70148
+https://nameless-badlands-70148.herokuapp.com/ | https://git.heroku.com/nameless-badlands-70148.git
+
+git remote -v
+git push heroku master
